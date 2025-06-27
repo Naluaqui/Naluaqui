@@ -1,12 +1,34 @@
-<div> <h1>Hello, world!</h1>
-<h2>I'm Ana Luiza 🌻 a Software Engineering student at FIAP</h2>
-<p>I'm working at Ambev since December 2024 and doing an Infrastructure internship since February 2025</p>
-</div>
+# Olá, mundo! 👋
 
-<div>
-<h3>🚀 Minhas Skills </h3>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="45" src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="CSS"/></code>
-</div>
+## Eu sou a Ana Luiza 🌻  
+Estudante de Engenharia de Software na FIAP desde fevereiro de 2025, apaixonada por tecnologia e inovação.  
+Atuo na Ambev desde dezembro de 2024, onde tenho a oportunidade de obter experiência com o idioma inglês e espanhol. Paralelamente, sou monitora de laboratório na FIAP, foco em infraestrutura para otimização de processos e eficiência tecnológica.
+
+Atualmente, participo ativamente de projetos acadêmicos e profissionais que me desafiam a aplicar meus conhecimentos em desenvolvimento fullstack, automação e inovação tecnológica.
+
+---
+
+### 🚀 Meus Projetos
+
+- **Global Solution - Wave Wise**  
+  Um projeto focado em soluções inovadoras para desafios reais, com iniciativas de trabalho no desenvolvimento de **lixeiras inteligentes** que integram sensores IoT para monitoramento em tempo real da capacidade, contribuindo para a sustentabilidade urbana.  
+  Além disso, criação de simuladores que combinam hardware e software para treinamento e educação, utilizando conceitos de IoT, cálculo avançado e Python para tornar a experiência mais interativa e realista.
+
+- **Iniciação Científica - Viagem No Tempo**  
+  Projeto inovador que consiste em uma “cápsula de viagem no tempo” — um gamemode para exposições que mistura programação, narrativa interativa e experiência do usuário - Projeto em andamento.
+
+---
+
+### 🚀 Minhas Skills
+
+<p align="left"> <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-Ana_Luiza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/)
+
+---
+
+Obrigada pela visita ao meu perfil! 🚀  
