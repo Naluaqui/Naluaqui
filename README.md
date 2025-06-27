@@ -14,6 +14,10 @@ Atualmente, participo ativamente de projetos acadêmicos e profissionais que me 
   Um projeto focado em soluções inovadoras para desafios reais, com iniciativas de trabalho no desenvolvimento de **lixeiras inteligentes** que integram sensores IoT para monitoramento em tempo real da capacidade, contribuindo para a sustentabilidade urbana.  
   Além disso, criação de simuladores que combinam hardware e software para treinamento e educação, utilizando conceitos de IoT, cálculo avançado e Python para tornar a experiência mais interativa e realista.
 
+- **Passa Para Ela**  
+  Site dedicado à divulgação da história e do trabalho da empresa Passa a Bola, focada no futebol feminino.  
+  O projeto inclui um sistema automatizado para organização de peneiras, coleta de dados e um jogo virtual interativo para o público, promovendo engajamento e visibilidade para o esporte - Projeto em andamento.
+
 - **Iniciação Científica - Viagem No Tempo**  
   Projeto inovador que consiste em uma “cápsula de viagem no tempo” — um gamemode para exposições que mistura programação, narrativa interativa e experiência do usuário - Projeto em andamento.
 
