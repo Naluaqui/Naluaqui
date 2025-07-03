@@ -25,7 +25,20 @@ Atualmente, participo ativamente de projetos acadêmicos e profissionais que me 
 
 ### 🚀 Minhas Skills
 
-<p align="left"> <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </p>
+<p align="left"> 
+  <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+</p>
+
+### 📚 Em estudo
+
+<p align="left"> 
+  <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+</p>
 
 ---
 
