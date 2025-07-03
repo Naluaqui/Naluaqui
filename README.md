@@ -37,7 +37,7 @@ Atualmente, participo ativamente de projetos acadêmicos e profissionais que me 
 
 <p align="left"> 
   <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 </p>
 
 ---
