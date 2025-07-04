@@ -1,6 +1,6 @@
 <!-- Ana Luiza / README.md personalizado -->
 
-# 👩‍💻 Ana Luiza Tibiriçá da Paixão
+# 🌻 Nalu
 
 > "Com grandes códigos, vem grandes bugs."
 
