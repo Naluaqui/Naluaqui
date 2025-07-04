@@ -10,15 +10,6 @@ Atualmente atuo na **Ambev**, onde pratico inglês e espanhol diariamente em um 
 
 Participo de projetos que envolvem **desenvolvimento fullstack**, **automação** e **inovação tecnológica**, sempre buscando criar soluções com impacto real.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 ---
 
 ## 🧠 Linguagens e Tecnologias
@@ -42,7 +33,7 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
 
 | 💻 GitHub Stats | 📈 Linguagens |
 | --------------- | ------------- |
-| ![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-luiza-paixao&show_icons=true&theme=radical&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-luiza-paixao&layout=compact&theme=radical) |
+| ![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naluaqui&show_icons=true&theme=radical&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naluaqui&layout=compact&theme=radical) |
 
 ---
 
@@ -63,7 +54,7 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
 
 ## 🐍 Snake Game
 
-![Snake animation](https://github.com/ana-luiza-paixao/ana-luiza-paixao/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Naluaqui/Naluaqui/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
