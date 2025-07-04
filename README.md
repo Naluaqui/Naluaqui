@@ -52,10 +52,6 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
 
 ---
 
-## 🐍 Snake Game
-
-![Snake animation](https://github.com/Naluaqui/Naluaqui/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📫 Vamos nos conectar?
