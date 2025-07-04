@@ -1,51 +1,76 @@
-# Olá, mundo! 👋
+<!-- Ana Luiza / README.md personalizado -->
 
-## Eu sou a Ana Luiza 🌻  
-Estudante de Engenharia de Software na FIAP desde fevereiro de 2025, apaixonada por tecnologia e inovação.  
-Atuo na Ambev desde dezembro de 2024, onde tenho a oportunidade de obter experiência com o idioma inglês e espanhol. Paralelamente, sou monitora de laboratório na FIAP, foco em infraestrutura para otimização de processos e eficiência tecnológica.
+# 👩‍💻 Ana Luiza Tibiriçá da Paixão
 
-Atualmente, participo ativamente de projetos acadêmicos e profissionais que me desafiam a aplicar meus conhecimentos em desenvolvimento fullstack, automação e inovação tecnológica.
+> "Com grandes códigos, vem grandes bugs."
 
----
+Estudante de Engenharia de Software na FIAP desde fevereiro de 2025, apaixonada por **tecnologia** e **inovação**.
 
-### 🚀 Meus Projetos
+Atualmente atuo na **Ambev**, onde pratico inglês e espanhol diariamente em um ambiente corporativo. Também sou monitora de laboratório na FIAP, com foco em infraestrutura, otimização de processos e eficiência tecnológica.
 
-- **Global Solution - Wave Wise**  
-  Um projeto focado em soluções inovadoras para desafios reais, com iniciativas de trabalho no desenvolvimento de **lixeiras inteligentes** que integram sensores IoT para monitoramento em tempo real da capacidade, contribuindo para a sustentabilidade urbana.  
-  Além disso, criação de simuladores que combinam hardware e software para treinamento e educação, utilizando conceitos de IoT, cálculo avançado e Python para tornar a experiência mais interativa e realista.
+Participo de projetos que envolvem **desenvolvimento fullstack**, **automação** e **inovação tecnológica**, sempre buscando criar soluções com impacto real.
 
-- **Passa Para Ela**  
-  Site dedicado à divulgação da história e do trabalho da empresa Passa a Bola, focada no futebol feminino.  
-  O projeto inclui um sistema automatizado para organização de peneiras, coleta de dados e um jogo virtual interativo para o público, promovendo engajamento e visibilidade para o esporte - Projeto em andamento.
-
-- **Iniciação Científica - Viagem No Tempo**  
-  Projeto inovador que consiste em uma “cápsula de viagem no tempo” — um gamemode para exposições que mistura programação, narrativa interativa e experiência do usuário - Projeto em andamento.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 🚀 Minhas Skills
+## 🧠 Linguagens e Tecnologias
 
-<p align="left"> 
-  <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-  <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-</p>
-
-### 📚 Em estudo
-
-<p align="left"> 
-  <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<p align="left">
+  <img alt="HTML" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="C#" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📊 Estatísticas
+
+### Estatísticas do GitHub de Ana Luiza
+
+| 💻 GitHub Stats | 📈 Linguagens |
+| --------------- | ------------- |
+| ![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-luiza-paixao&show_icons=true&theme=radical&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-luiza-paixao&layout=compact&theme=radical) |
+
+---
+
+## 🧪 Projetos em destaque
+
+- **🌊 Global Solution - Wave Wise**  
+  Lixeiras inteligentes com sensores IoT para monitoramento da capacidade em tempo real.  
+  Inclui simuladores com Python, hardware e cálculo aplicado.
+
+- **⚽ Passa Para Ela**  
+  Plataforma para divulgar o futebol feminino.  
+  Inclui automação de peneiras, jogo virtual e painel de dados. _[Em andamento]_
+
+- **🌀 Viagem no Tempo (IC)**  
+  Game interativo com narrativa e programação para eventos de exposição. _[Em andamento]_
+
+---
+
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/ana-luiza-paixao/ana-luiza-paixao/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-Ana_Luiza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/)
 
 ---
 
-Obrigada pela visita ao meu perfil! 🚀  
+**Obrigada pela visita ao meu perfil!** 🚀
