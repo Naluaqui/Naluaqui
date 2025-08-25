@@ -42,7 +42,7 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
 
 - **📡 API para Cadastro de Usuários - MongoDB**  
   Projeto Full Stack com React, Node.JS, Vite e MongoDB. API para cadastros de usuários e integração com banco de dados, interface responsiva e intuitiva.   
-  Inclui simuladores com Python, hardware e cálculo aplicado.  
+  Inclui desenvolvimento da API do zero, manipulação de dados, UI Design, utilização de frameworks e bibliotecas.    
   [![Clique aqui](https://img.shields.io/badge/Link-pink)](https://github.com/Naluaqui/ProjetoBancoDeDados.git)
 
 - **🍺 Automação Ambev**  
