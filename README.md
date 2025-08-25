@@ -40,9 +40,20 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
 
 ## 🧪 Projetos em destaque
 
+- **📡 API para Cadastro de Usuários - MongoDB**  
+  Projeto Full Stack com React, Node.JS, Vite e MongoDB. API para cadastros de usuários e integração com banco de dados, interface responsiva e intuitiva.   
+  Inclui simuladores com Python, hardware e cálculo aplicado.  
+  [![Clique aqui](https://img.shields.io/badge/Link-pink)](https://github.com/Naluaqui/ProjetoBancoDeDados.git)
+
+- **🍺 Automação Ambev**  
+  Aplicação para organizar arquivos em diferentes pastas, utilizando parâmetros de filtro em pastas e documentos para gerar palavras-chave, tornando o código 99% assertivo.  
+  Inclui front e back desenvolvidos utilizando apenas Python e bibliotecas. _[Em andamento]_  
+  [![Clique aqui](https://img.shields.io/badge/Link-pink)](https://github.com/Naluaqui/automacaoAmbev.git)
+
 - **🌊 Global Solution - Wave Wise**  
   Lixeiras inteligentes com sensores IoT para monitoramento da capacidade em tempo real.  
-  Inclui simuladores com Python, hardware e cálculo aplicado.
+  Inclui simuladores com Python, hardware e cálculo aplicado.  
+  [![Clique aqui](https://img.shields.io/badge/Link-pink)](https://github.com/Global-Solution-WaveWise)
 
 - **⚽ Passa Para Ela**  
   Plataforma para divulgar o futebol feminino.  
