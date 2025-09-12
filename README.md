@@ -6,7 +6,7 @@
 
 Estudante de Engenharia de Software na FIAP desde fevereiro de 2025, apaixonada por **tecnologia** e **inovação**.
 
-Atualmente atuo na **Ambev**, onde pratico inglês e espanhol diariamente em um ambiente corporativo. Também sou monitora de laboratório na FIAP, com foco em infraestrutura, otimização de processos e eficiência tecnológica.
+Atualmente atuo na **Prospera**, onde sou desenvolvedora backend júnior.
 
 Participo de projetos que envolvem **desenvolvimento fullstack**, **automação** e **inovação tecnológica**, sempre buscando criar soluções com impacto real.
 
