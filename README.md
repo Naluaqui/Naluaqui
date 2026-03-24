@@ -66,8 +66,20 @@ Desenvolvedora **Backend Júnior na Prospera**
 
 ---
 
-![Video Game Loop GIF](https://github.com/user-attachments/assets/20edee8e-f7ba-4e59-bd61-a90814391651)
-![Glitch Love GIF by dualvoidanima](https://github.com/user-attachments/assets/96e28433-5ca0-4cd4-8858-dcb7b1e9c675)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/20edee8e-f7ba-4e59-bd61-a90814391651"
+    width="48%"
+    style="display:inline-block;"
+    alt="Video Game Loop GIF"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/96e28433-5ca0-4cd4-8858-dcb7b1e9c675"
+    width="48%"
+    style="display:inline-block;"
+    alt="Glitch Love GIF by dualvoidanima"
+  />
+</p>
 
 ---
 
