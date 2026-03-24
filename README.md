@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/POWER-ON-00ffff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MODE-INOVATION-ff0080?style=for-the-badge"/>
 </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/">
+<img src="https://img.shields.io/badge/LINKEDIN-ANA_LUIZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -122,17 +127,7 @@ Game interativo com narrativa tecnológica para eventos e exposições.
 
 ---
 
-# 🌐 CONNECT
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ana-luiza-tibirica-da-paixao/">
-<img src="https://img.shields.io/badge/LINKEDIN-ANA_LUIZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-
-⚡ *ANA LUIZA TIBIRIÇÁ DA PAIXÃO** ⚡  
+⚡ **ANA LUIZA TIBIRIÇÁ DA PAIXÃO** ⚡  
 
 </p>
