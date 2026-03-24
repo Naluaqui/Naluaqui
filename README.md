@@ -24,7 +24,10 @@ Participo de projetos que envolvem **desenvolvimento fullstack**, **automação*
   <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="MongoDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt"Odoo" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
+  <img alt="Odoo" height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
+  <img alt="Next.Js" height="35" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js"/>
+  <img alt="Java" height="35" src="https://cdn.simpleicons.org/openjdk" alt="Java"/>
+  <img alt="PostgreSql" height="35" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"/>
 </p>
 
 ---
