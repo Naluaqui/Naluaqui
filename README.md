@@ -25,7 +25,7 @@ Estudante de **Engenharia de Software na FIAP** desde **2025**
 Desenvolvedora **Backend Júnior na Prospera**
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=22&duration=2400&pause=800&color=00F7FF&center=false&vCenter=true&multiline=true&width=760&height=140&lines=%3E+Apaixonada+por%3A;%E2%9A%A1+Tecnologia;%E2%9A%A1+Machine+Learning;%E2%9A%A1+Inova%C3%A7%C3%A3o+atrav%C3%A9s+de+transforma%C3%A7%C3%A3o;%E2%9A%A1+Construir+solu%C3%A7%C3%B5es+com+impacto+real" alt="Cyberpunk typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=22&duration=2400&pause=800&color=00F7FF&center=false&vCenter=true&multiline=true&width=760&height=140&lines=%3E+Apaixonada+por%3A;%E2%9A%A1+Inova%C3%A7%C3%A3o+atrav%C3%A9s+de+transforma%C3%A7%C3%A3o;%E2%9A%A1+Construir+solu%C3%A7%C3%B5es+com+impacto+real;%E2%9A%A1+Machine+Learning;%E2%9A%A1+Tecnologia" alt="Cyberpunk typing animation" />
 </p>
 
 ---
